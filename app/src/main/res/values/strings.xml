@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">O/L Past Papers</string>
+    <string name="policy_url">https://sltechnology-inc.blogspot.com/2023/09/ol-past-papers-privacy-policy.html</string>
+    <string name="email_feedback">slt63235@gmail.com</string>
+
+    <string name="past_papers">Past Papers</string>
+    <string name="marking_schemes">Marking Schemes</string>
+
+
+
+    //admob
+    <string name="interstitial_ad1">ca-app-pub-3981573208215792/9807698178</string>
+    <string name="interstitial_ad2">ca-app-pub-3981573208215792/8434110599</string>
+    <string name="interstitial_ad3">ca-app-pub-3981573208215792/7181534835</string>
+
+    <string name="banner1">ca-app-pub-3981573208215792/4687233432</string>
+    <string name="banner2">ca-app-pub-3981573208215792/6860054916</string>
+    <string name="banner3">ca-app-pub-3981573208215792/9253164405</string>
+
+</resources>

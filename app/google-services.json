@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028860771818",
+    "project_id": "ol-past-papers-a199c",
+    "storage_bucket": "ol-past-papers-a199c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028860771818:android:21c6cd5521c8e570274693",
+        "android_client_info": {
+          "package_name": "inc.sltechnology.olpastpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028860771818-reatrvfi24q3c6123mcsr711dl3bu631.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhREGJT2zipy1r4tb0TtjZl-j3IMLMl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028860771818-reatrvfi24q3c6123mcsr711dl3bu631.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
